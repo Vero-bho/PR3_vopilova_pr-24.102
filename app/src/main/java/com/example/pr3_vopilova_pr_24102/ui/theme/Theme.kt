@@ -1,5 +1,6 @@
 package com.example.pr3_vopilova_pr_24102.ui.theme
 // Темы
+// Еще добавить
 import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
