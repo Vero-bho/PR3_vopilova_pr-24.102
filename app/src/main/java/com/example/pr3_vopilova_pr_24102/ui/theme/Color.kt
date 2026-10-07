@@ -1,5 +1,5 @@
 package com.example.pr3_vopilova_pr_24102.ui.theme
-
+// Цвета
 import androidx.compose.ui.graphics.Color
 
 val Purple80 = Color(0xFFD0BCFF)
