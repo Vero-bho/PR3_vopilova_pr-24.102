@@ -1,5 +1,5 @@
 package com.example.pr3_vopilova_pr_24102
-
+// Изменение
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
