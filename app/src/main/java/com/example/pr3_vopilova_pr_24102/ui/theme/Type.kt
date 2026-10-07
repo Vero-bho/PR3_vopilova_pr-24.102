@@ -1,7 +1,6 @@
 package com.example.pr3_vopilova_pr_24102.ui.theme
 // Тип
 // Дописать
-// Комментарий в сессии1
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
